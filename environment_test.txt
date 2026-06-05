@@ -1,0 +1,12 @@
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.14.5
+✅ OS: Darwin 25.4.0
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (/Users/Tasha/Documents/Intro to AI codes/intro-ai/ai_env)
+==================================================
+Tasha@Natalies-MacBook-Pro intro-ai % 
